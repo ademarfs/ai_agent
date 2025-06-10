@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-community
+unstructured[md]
+protobuf==3.20.3
+setuptools
